@@ -12,6 +12,7 @@ This is a repository about Ph.D. employment.
 - [“先画饼，再化缘”，硕博进高校要注意哪些潜在的「坑」？丨高才情报局第61期](https://www.gaoxiaojob.com/news/detail/1667.html)
 - [吐槽高校青椒招聘的一些套路](https://zhuanlan.zhihu.com/p/566665728)
 - [高校取消事业单位编制，对大学老师这个职业是利是弊？](https://www.zhihu.com/question/49215671)
+- [博士的血泪求职路：处处都是“坑”！](https://mp.weixin.qq.com/s/pJKa6oJxO01JukgAv4tpQA)
 
 ## 渠道
 - [青塔人才](https://job.cingta.com/)
