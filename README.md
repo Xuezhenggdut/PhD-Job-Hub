@@ -1,14 +1,14 @@
 # PhD-Job-Hub
 This is a repository about Ph.D. employment.
 
-## 知乎
+## 经验贴
 - [读通信/信号博士的出路有什么？](https://www.zhihu.com/question/65571207)
 - [国内博士后有多坑？](https://www.zhihu.com/question/360696077)
 - [高校教职黑名单（网络搜集长期更新）](https://zhuanlan.zhihu.com/p/605126610)
 - [我总结了一份高校教职求职排雷指南，请收好](https://zhuanlan.zhihu.com/p/338079683)
 - [你见过高校引进博士的哪些坑？](https://www.zhihu.com/question/538969178)
 - [一个博士的血泪求职路：想入职高校？请以我为鉴避坑！](https://zhuanlan.zhihu.com/p/265626151)
-
+- [青椒避坑指南，小心合同里的那些“文字游戏”！](https://www.gaoxiaojob.com/news/detail/53.html)
 
 ## 渠道
 - [青塔人才](https://job.cingta.com/)
