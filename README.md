@@ -9,6 +9,8 @@ This is a repository about Ph.D. employment.
 - [你见过高校引进博士的哪些坑？](https://www.zhihu.com/question/538969178)
 - [一个博士的血泪求职路：想入职高校？请以我为鉴避坑！](https://zhuanlan.zhihu.com/p/265626151)
 - [青椒避坑指南，小心合同里的那些“文字游戏”！](https://www.gaoxiaojob.com/news/detail/53.html)
+- [“先画饼，再化缘”，硕博进高校要注意哪些潜在的「坑」？丨高才情报局第61期](https://www.gaoxiaojob.com/news/detail/1667.html)
+- [吐槽高校青椒招聘的一些套路](https://zhuanlan.zhihu.com/p/566665728)
 
 ## 渠道
 - [青塔人才](https://job.cingta.com/)
