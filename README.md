@@ -2,8 +2,9 @@
 This is a repository about Ph.D. employment.
 
 ## 知乎
-- [知乎：读通信/信号博士的出路有什么？](https://www.zhihu.com/question/65571207)
-- [知乎：国内博士后有多坑？](https://www.zhihu.com/question/360696077)
+- [读通信/信号博士的出路有什么？](https://www.zhihu.com/question/65571207)
+- [国内博士后有多坑？](https://www.zhihu.com/question/360696077)
+- [高校教职黑名单（网络搜集长期更新）](https://zhuanlan.zhihu.com/p/605126610)
 
 
 ## 渠道
