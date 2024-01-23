@@ -13,6 +13,7 @@ This is a repository about Ph.D. employment.
 - [吐槽高校青椒招聘的一些套路](https://zhuanlan.zhihu.com/p/566665728)
 - [高校取消事业单位编制，对大学老师这个职业是利是弊？](https://www.zhihu.com/question/49215671)
 - [博士的血泪求职路：处处都是“坑”！](https://mp.weixin.qq.com/s/pJKa6oJxO01JukgAv4tpQA)
+- [为什么博士后的年薪远远高于大学老师（刚入职）？](https://www.zhihu.com/question/393075431)
 
 ## 渠道
 - [青塔人才](https://job.cingta.com/)
@@ -50,3 +51,8 @@ This is a repository about Ph.D. employment.
 ### 广技师
 - [广东技术师范大学诚招海内外高层次人才和博士公告](https://rsc.gpnu.edu.cn/info/1044/3703.htm)
 - [知乎：怎么评价2021年广东技术师范大学招聘博士，面签的时候说有编制，欢欢喜喜去入职的时候又说没编制？](https://www.zhihu.com/question/462417566)
+
+
+### 华工
+- [2023年度华南理工大学博士后招收公告](https://www2.scut.edu.cn/postdoctor/2021/1102/c13590a449561/page.htm)
+- [华南理工大学博后怎么样？](https://www.zhihu.com/question/454143882)
