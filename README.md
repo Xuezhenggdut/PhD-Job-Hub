@@ -26,6 +26,10 @@ This is a repository about Ph.D. employment.
 
 
 ## 广东省
+
+- [广东省人力资源和社会保障厅](https://hrss.gd.gov.cn/zwgk/index.html)
+- [广州市人力资源和社会保障局](http://rsj.gz.gov.cn/)
+
 ### 广工
 - [信息工程学院秦玉文团队招聘博士后启事](https://rscbgb.gdut.edu.cn/info/1052/1341.htm)
   - 博士后待遇包括：基础年薪+ 项目绩效 + 科研奖励
