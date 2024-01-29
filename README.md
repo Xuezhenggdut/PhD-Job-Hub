@@ -41,6 +41,8 @@ This is a repository about Ph.D. employment.
 
     3、科研奖励：在站期间获得的高水平科研成果（论文、专利、项目等）奖励按学校相关科研奖励办法给予奖励。如获得国家基金或中国博士后科学基金特别资助者，学校一次性发奖励5 万元。上不封顶。
 - [知乎：广东工业大学博士后之大坑](https://zhuanlan.zhihu.com/p/275809973)
+- [广东工业大学高层次人才招聘简章](https://hr.gdut.edu.cn/info/1064/4370.htm)
+- [广东工业大学第二期“青年百人计划”实施与管理办法（试行）](https://hr.gdut.edu.cn/info/1049/3060.htm)
 
 ### 广大
 - [广州大学2023年博士后招聘简章](http://www.gzhu.edu.cn/info/1205/9685.htm)
