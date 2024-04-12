@@ -15,6 +15,9 @@ This is a repository about Ph.D. employment.
 - [博士的血泪求职路：处处都是“坑”！](https://mp.weixin.qq.com/s/pJKa6oJxO01JukgAv4tpQA)
 - [为什么博士后的年薪远远高于大学老师（刚入职）？](https://www.zhihu.com/question/393075431)
 
+## 类型
+- [师资博后，博后中的“天坑”？](https://mp.weixin.qq.com/s/7__2DDoHVpAlVtgZnZwCoQ)
+
 ## 渠道
 - [青塔人才](https://job.cingta.com/)
 - [高校人才网](https://www.gaoxiaojob.com/)
