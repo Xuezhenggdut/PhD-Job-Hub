@@ -14,6 +14,7 @@ This is a repository about Ph.D. employment.
 - [高校取消事业单位编制，对大学老师这个职业是利是弊？](https://www.zhihu.com/question/49215671)
 - [博士的血泪求职路：处处都是“坑”！](https://mp.weixin.qq.com/s/pJKa6oJxO01JukgAv4tpQA)
 - [为什么博士后的年薪远远高于大学老师（刚入职）？](https://www.zhihu.com/question/393075431)
+- [作为一名博后，下面各个基金的申请难度排名如何？](https://www.zhihu.com/question/516505722)
 
 ## 类型
 - [师资博后，博后中的“天坑”？](https://mp.weixin.qq.com/s/7__2DDoHVpAlVtgZnZwCoQ)
@@ -27,6 +28,7 @@ This is a repository about Ph.D. employment.
 ## 找
 - [博士去高校或者博后的话，一般什么时候开始找？](https://www.zhihu.com/question/618293332?write)
 - [博后申请极简指南](https://zhuanlan.zhihu.com/p/616494434)
+
 
 ### 公众号
 硕博人才招聘平台；高才博士后；各省高校引才；中研博硕英才网；博士后网；博士后招聘平台；博士后招聘网；博士后招收；博士人才网；博士研究生招聘网；高才博士后；高层次人才圈；高校人才招聘网；广东省博士博士后人才发展促进会；科学人才网；科研人才网；青塔人才；时代学者人才助手；硕博就业出国；硕博求职网；硕博人才招聘平台；中国博士后微服务；招博后；广州人社
