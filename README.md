@@ -33,6 +33,7 @@ This is a repository about Ph.D. employment.
 ### 公众号
 硕博人才招聘平台；高才博士后；各省高校引才；中研博硕英才网；博士后网；博士后招聘平台；博士后招聘网；博士后招收；博士人才网；博士研究生招聘网；高才博士后；高层次人才圈；高校人才招聘网；广东省博士博士后人才发展促进会；科学人才网；科研人才网；青塔人才；时代学者人才助手；硕博就业出国；硕博求职网；硕博人才招聘平台；中国博士后微服务；招博后；广州人社
 
+- [全国高等学校名单](http://www.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202110/t20211025_574874.html)
 
 
 ## 广东省
@@ -72,3 +73,4 @@ This is a repository about Ph.D. employment.
 ### 华工
 - [2023年度华南理工大学博士后招收公告](https://www2.scut.edu.cn/postdoctor/2021/1102/c13590a449561/page.htm)
 - [华南理工大学博后怎么样？](https://www.zhihu.com/question/454143882)
+
